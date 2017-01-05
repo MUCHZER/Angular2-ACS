@@ -7,8 +7,8 @@
   },
   "private": true,
   "dependencies": {
+    "cors": "^2.8.1",
     "express": "latest"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
