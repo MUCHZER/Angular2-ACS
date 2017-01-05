@@ -1,0 +1,11 @@
+<button (click)="reqButton('1')">Envoyer 1</button>
+<button (click)="reqButton('2')">Envoyer 2</button>
+<button (click)="reqButton('3')">Envoyer 3 (erreur)</button>
+<button (click)="reqTest()">Test a completer</button>
+
+<p *ngIf="result">
+  {{ result }}
+</p>
+<p style="color: red;" *ngIf="error">
+  {{ error }}
+</p>
