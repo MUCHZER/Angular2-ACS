@@ -53,7 +53,7 @@ export class RequestComponent {
   * Hésite pas à documenter aussi :)
   */
   reqTest() {
-    // Creer votre req POST et afficher le resultat
+    // Creer votre req POST sur test/ et afficher le resultat
     // Cadeau :
     // https://angular.io/docs/ts/latest/api/http/index/Http-class.html
   }
