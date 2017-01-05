@@ -1,0 +1,14 @@
+{
+  "name": "atelier-acs-API",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./api.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {
+  }
+}
